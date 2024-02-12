@@ -1,0 +1,65 @@
+body {
+    text-align: center;
+    background-color: #d9dbbc;
+}
+
+.btn {
+    height: 100px;
+    width: 100px;
+    border-radius: 20%;
+    border: 2px solid black;
+    margin: 0.2rem;
+}
+
+h1 {
+    margin-top: 120px;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.btn {
+    background-color: #fde2ff;
+    color: #071e22;
+    font-size: xx-large;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.flash {
+    background-color: white;
+}
+
+.userFlash {
+    background-color:greenyellow;
+}
+
+.gameOverFlash {
+    background-color: red;
+}
+
+.line-one{
+    display: flex;
+}
+
+.new{
+    margin-top: 2rem;
+    background-color:chocolate;
+    border: none;
+    font-size: 1.5rem;
+    padding: 0.5rem;
+    border-radius: 1rem;
+    padding-left: 1rem;
+    padding-left: 1rem;
+}
+
+/* h2 {
+    font-size: 16px;
+    color: black;
+} */
